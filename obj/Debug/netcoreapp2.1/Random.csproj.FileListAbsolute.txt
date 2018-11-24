@@ -1,0 +1,11 @@
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/obj/Debug/netcoreapp2.1/Random.csprojAssemblyReference.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/obj/Debug/netcoreapp2.1/Random.csproj.CoreCompileInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/obj/Debug/netcoreapp2.1/Random.AssemblyInfoInputs.cache
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/obj/Debug/netcoreapp2.1/Random.AssemblyInfo.cs
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/bin/Debug/netcoreapp2.1/Random.deps.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/bin/Debug/netcoreapp2.1/Random.runtimeconfig.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/bin/Debug/netcoreapp2.1/Random.runtimeconfig.dev.json
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/bin/Debug/netcoreapp2.1/Random.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/bin/Debug/netcoreapp2.1/Random.pdb
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/obj/Debug/netcoreapp2.1/Random.dll
+/Users/dirkvancouver/Desktop/Projects/c#practice/Random/obj/Debug/netcoreapp2.1/Random.pdb

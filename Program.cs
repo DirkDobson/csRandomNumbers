@@ -1,12 +1,14 @@
 ﻿using System;
 
-namespace Random
+namespace CS
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var random = new Random();
+            for (var i = 0; i < 10; i++)
+            Console.WriteLine(random.Next());
         }
     }
 }
